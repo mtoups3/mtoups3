@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings students and friends 👋
+
+- 🌱 I’m currently teaching undergraduate and graduate students at Tulane University
+- 📫 How to reach me: mtoups3@tulane.edu
 
 <!--
 **mtoups3/mtoups3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
